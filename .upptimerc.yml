@@ -47,9 +47,8 @@ status-website:
   introTitle: "**NFTfi** status page"
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/NFTfi-Genesis/nftfi-services-status).
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
+    - title: GitHub Monitor Repo
       href: https://github.com/$OWNER/$REPO
+  theme: dark
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
