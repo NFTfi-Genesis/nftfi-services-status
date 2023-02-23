@@ -4,117 +4,129 @@
     "url": "https://nftfi.com",
     "icon": "https://icons.duckduckgo.com/ip3/nftfi.com.ico",
     "slug": "nf-tfi",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 170,
     "timeDay": 199,
     "timeWeek": 170,
     "timeMonth": 170,
     "timeYear": 170,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-23": 3
+    }
   },
   {
     "name": "dApp",
     "url": "https://app.nftfi.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.nftfi.com.ico",
     "slug": "d-app",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 348,
     "timeDay": 267,
     "timeWeek": 348,
     "timeMonth": 348,
     "timeYear": 348,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-23": 3
+    }
   },
   {
     "name": "API",
     "url": "https://api.nftfi.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.nftfi.com.ico",
     "slug": "api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 153,
     "timeDay": 145,
     "timeWeek": 153,
     "timeMonth": 153,
     "timeYear": 153,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-23": 2
+    }
   },
   {
     "name": "SDK API /listings",
     "url": "https://sdk-api.nftfi.com/listings",
     "icon": "https://icons.duckduckgo.com/ip3/sdk-api.nftfi.com.ico",
     "slug": "sdk-api-listings",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 159,
     "timeDay": 147,
     "timeWeek": 159,
     "timeMonth": 159,
     "timeYear": 159,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-23": 2
+    }
   },
   {
     "name": "SDK API /loans",
     "url": "https://sdk-api.nftfi.com/loans",
     "icon": "https://icons.duckduckgo.com/ip3/sdk-api.nftfi.com.ico",
     "slug": "sdk-api-loans",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 81,
     "timeDay": 55,
     "timeWeek": 81,
     "timeMonth": 81,
     "timeYear": 81,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-23": 1
+    }
   },
   {
     "name": "SDK API /offers",
     "url": "https://sdk-api.nftfi.com/offers",
     "icon": "https://icons.duckduckgo.com/ip3/sdk-api.nftfi.com.ico",
     "slug": "sdk-api-offers",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 74,
     "timeDay": 54,
     "timeWeek": 74,
     "timeMonth": 74,
     "timeYear": 74,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-23": 1
+    }
   },
   {
     "name": "SDK API /authorization/token",
     "url": "https://sdk-api.nftfi.com/authorization/token",
     "icon": "https://icons.duckduckgo.com/ip3/sdk-api.nftfi.com.ico",
     "slug": "sdk-api-authorization-token",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,6 +135,8 @@
     "timeWeek": 93,
     "timeMonth": 93,
     "timeYear": 93,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-23": 0
+    }
   }
 ]
