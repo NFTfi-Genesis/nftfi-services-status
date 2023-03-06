@@ -1,7 +1,7 @@
 url: https://sdk-api.nftfi.com/offers
-status: up
-code: 204
-responseTime: 52
-lastUpdated: 2023-03-05T23:01:45.075Z
+status: down
+code: 403
+responseTime: 13
+lastUpdated: 2023-03-06T15:28:50.153Z
 startTime: Fri Feb 17 2023 18:40:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
